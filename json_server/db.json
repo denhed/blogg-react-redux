@@ -1,14 +1,46 @@
 {
   "posts": [
-    { "id": 1,
+    {
+      "id": 1,
       "title": "Hi!",
       "categories": "Computer, Friends",
       "content": "Post about Friends"
     },
-    { "id": 2,
+    {
+      "id": 2,
       "title": "Hi new post!",
       "categories": "Candy",
       "content": "Post about some old candy friends"
+    },
+    {
+      "title": "test",
+      "categories": "hej",
+      "content": "det var en gåbbe",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "categories": "hej",
+      "content": "det var en gåbbe",
+      "id": 4
+    },
+    {
+      "title": "je",
+      "categories": "je",
+      "content": "je",
+      "id": 5
+    },
+    {
+      "title": "kk",
+      "categories": "kk",
+      "content": "k",
+      "id": 6
+    },
+    {
+      "title": "tt",
+      "categories": "tt",
+      "content": "tt",
+      "id": 7
     }
   ]
 }
